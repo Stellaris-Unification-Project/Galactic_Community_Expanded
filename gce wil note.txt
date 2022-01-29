@@ -1,0 +1,38 @@
+note from wil (anaphysik):
+
+
+Check out the cool icons I made in gfx\interface\icons\resolutions :)
+
+Files should be all cleaned up (and reorganized as well)
+A number of resolutions have improved weights.
+
+Crystalline Entities have resolutions and pacification/unpacification pop-up events.
+
+Sanctions should now have some robust weights on them, instead of being incredibly, opposite-of-how-they-should-be bad; it's a shame that being in breach is bugged for now T_T. But at least they will make sense now, and make for better gameplay when the bug gets fixed. (And even if the mechanics don't work, the flavor will.)
+->Created some absolutist-style flavor text for the Absolute ___ Sanctions.
+
+
+In the future, I want to go about reworking the Gestalt and Megacorp (Invisible Hand), and the Diplomacy and Sovereignty ones to a lesser extent. My plan is to keep working on ideas for reworking those trees, and also to subsequently get around to making some improved flavor text for all the trees, to sell the weight of what each resolution entails for the law and culture of the Community. That will be quite some time off, however, as a significant amount of my Stellaris time is going to be spent working on some other things first. But just a heads up that I'd like to continue to contribute to the mod, in those sorts of ways, and will be thinking on them.
+
+Anyway, some notes on those:
+
+--I think the Gestalt tree needs a lot of work. Right now it seems to mostly exist as "non-Gestalts get a lot of penalties and almost no benefits" so it's merely a way for a galaxy full of gestalts to bully a few non-gestalts, but because of that it fails in two key ways: a) it doesn't really offer a tree that gestalts can benefit from if there *aren't* a galaxy full of gestalts (if it's all bad/useless, there's no point for non-gestalts to join gestalts in voting for it; e.g. Deviancy is reduced, but Crime isn't); and b) it misses out on the experience of passing resolutions to *make other empires become more like you*, i.e. in this case, more Gestalt-like. Other empires can't reform into gestalts (unless... could they? is there some easy way to do that as a capstone forced-change?), but they COULD adopt more gestalt-like traits, like reduced faction influence, reduced happiness importance, reduced consumer good usage, etc. (Hm, we might even be able to add pseudo-Bio-Trophy jobs.) Forcing other empires to adopt your empires ethos/ideals via diplomatic persuasion is one of the key flavor features of the Galactic Community, and it would be good to find ways to get that feel for gestalts as well, paired *alongside* a bunch of gestalt-only bonuses. The "don't you wish you were all one, just like we are" effect.
+
+--I think the Invisible Hand tree is too long and too redundant-feeling with Commerce (even though flavorwise, the intention is pretty different between the two). I also think that Unequal Treaties is buried behind far too deep, being the capstone of a 6-level tree which may very well never be seen even with a lot of gunning for it. This is especially true given how 'parasitic' the tree is, being of little interest for non-megacorps to vote alongside megacorps on. I'd like to rework the tree as maybe 3 resolutions, and include some different benefits and downsides alongside the megacorp-exclusive bonuses. (Although I will note that I LOVE the idea of a crime bonus; however, at the moment it seems miniscule, especially given the insane effectiveness of enforcers. It would probably be better to add a flat crime bonus in addition to a crime %, to make it relevant at both normal and high populations.)
+
+--For Diplomacy, I think it needs a stronger and more coherent identity. Right now, it's too "stereotypical xenophile" instead of actually focusing on the flavor of diplomacy and interconnected empires/people. (e.g. the Prime Directive stuff, while a cute reference, comes out of nowhere except as a well-this-is-the-xenophile-tree-i-guess). Making it more about the envoys-for-everyone free-movement-of-people stuff would give it a clearer focus. An amenities penalty to represent facilities being used for *xeno-tourism*. Bonus to growth from immigration. 
+(Potential breaches might include not having open borders to community neighbors, not having a migration treaty, not being multispecies (unless gestalt), having migration controls on, not being in a federation, having an envoy actively-harming-relations, not having adopted the diplomacy tree.)
+
+--For Sovereignty, I think the breaches could be improved and spread a deeper into the tree. It should have more of a "naturally encourage xenophobic tendencies" feel to it at first, like bonuses for founding species, forcing closed borders, etc (in addition to current ideas like the influence-tax, the universal opinion modifiers, and xenophobic attraction). Right now, it's too up front with breaches (whereas others wait till level 3). (The flavor also comes on too strong too early, but that's flavor text, which is important but fungible.)
+
+
+
+
+-wil (anaphysik)
+
+
+
+
+
+
+

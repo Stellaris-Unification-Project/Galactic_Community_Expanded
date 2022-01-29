@@ -1,0 +1,31 @@
+there are MANY, MANY places in the code that refer to specific levels of resolutions being active
+
+
+e.g. in common
+colony types
+policies
+living standards
+slavery types
+citizen types
+starbase modules
+starbase buildings
+missions
+casus belli
+special decisions
+projects utopia
+federation decisions
+resource buildings
+research buildings
+scripted effects
+
+e.g. in events
+crisis events
+FEDERATIONS EVENTS
+on action events
+planet destruction events
+
+beyond the aforementioned greater good edict
+
+(those were just ones i found by searching for is_active_resolution, and then ignoring the ones that only had to do with tiyanki)
+
+it's honestly so much that we might just want to consider nuking the level 6 resolutions entirely. to account for all that a LOT needs to be overwritten
