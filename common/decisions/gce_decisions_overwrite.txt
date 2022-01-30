@@ -62,8 +62,8 @@ decision_project_cornucopia = {
 		NOR = {
 			is_planet_class = pc_machine
 			is_planet_class = pc_hive
+			is_planet_class = pc_city
 		}
-		NOT = { is_planet_class = pc_city }
 		owner = {
 			is_galactic_community_member = yes
 		}
