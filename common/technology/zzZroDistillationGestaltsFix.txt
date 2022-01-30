@@ -118,10 +118,7 @@ tech_psionic_theory = {
 		}
 		modifier = {
 			factor = 1.5
-			OR = {
-				has_ethic = ethic_spiritualist
-				has_ethic = ethic_fanatic_spiritualist
-			}
+			is_spiritualist = yes
 		}
 		modifier = {
 			factor = 1.25

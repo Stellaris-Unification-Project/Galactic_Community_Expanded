@@ -59,8 +59,10 @@ decision_project_cornucopia = {
 
 	potential = {
 		is_artificial = no
-		NOT = { is_planet_class = pc_machine }
-		NOT = { is_planet_class = pc_hive }
+		NOR = {
+			is_planet_class = pc_machine
+			is_planet_class = pc_hive
+		}
 		NOT = { is_planet_class = pc_city }
 		owner = {
 			is_galactic_community_member = yes
